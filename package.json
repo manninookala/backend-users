@@ -1,0 +1,15 @@
+{
+  "name": "backend-users",
+  "version": "1.0.0",
+  "description": "This contains about the users.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Manni Megna Nookala",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.2"
+  }
+}
